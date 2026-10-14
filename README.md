@@ -87,7 +87,7 @@ This dashboard helps demonstrate how data analytics can support supply chain dec
 
 ### Page 3: Root Causes Investigation & Business Recommendations
 
-![Root Causes and Recommendations](images/page3.png)
+![Root Causes and Recommendations](https://github.com/princeyadavtech26-arch/delivery-performance-analysis-powerbi/blob/main/Screenshot%202026-10-14%20100334.png)
 
 ## 👨‍💻 Skills Demonstrated
 
