@@ -79,7 +79,7 @@ This dashboard helps demonstrate how data analytics can support supply chain dec
 
 ### Page 1: Overall Delivery Performance
 
-![Overall Delivery Performance](https://github.com/princeyadavtech26-arch/delivery-performance-analysis-powerbi/blob/main/Screenshot%202026-10-14%20093416.png)
+![Overall Delivery Performance](https://github.com/princeyadavtech26-arch/delivery-performance-analysis-powerbi/blob/main/dashboard-page-1-overview.png).
 
 ### Page 2: Product & Shipping Analysis
 
