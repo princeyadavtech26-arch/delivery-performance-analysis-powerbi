@@ -83,8 +83,7 @@ This dashboard helps demonstrate how data analytics can support supply chain dec
 
 ### Page 2: Product & Shipping Analysis
 
-![Product and Shipping Analysis](https://github.com/princeyadavtech26-arch/delivery-performance-analysis-powerbi/blob/main/Screenshot%202026-10-14%20100359.png)
-
+![Product and Shipping Analysis](https://github.com/princeyadavtech26-arch/delivery-performance-analysis-powerbi/blob/main/dashboard-page-2-product-shipping.png).
 ### Page 3: Root Causes Investigation & Business Recommendations
 
 ![Root Causes and Recommendations](https://github.com/princeyadavtech26-arch/delivery-performance-analysis-powerbi/blob/main/Screenshot%202026-10-14%20100334.png)
