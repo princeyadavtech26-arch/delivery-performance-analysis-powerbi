@@ -43,7 +43,7 @@ Analyzes late-delivery rates across product categories and shipping modes, along
 - First Class has the highest displayed late-delivery rate among shipping modes, at 95%.
 - Standard Class has the lowest displayed late-delivery rate among shipping modes, at 38%.
 
-### 3. Root Causes Investigation & Business Recommendations
+### 3. Delivery Delay Investigation & Business Recommendations
 
 Examines average shipping delay across shipping modes and regions, along with state-level late-delivery percentages.
 
